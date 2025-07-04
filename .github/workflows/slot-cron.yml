@@ -2,39 +2,36 @@ name: Ravenair slot scan
 
 on:
   schedule:
-    # every 2 h at :15 past, UTC – tweak as you like
-    - cron:  '15 */2 * * *'         # POSIX cron, UTC time base :contentReference[oaicite:1]{index=1}
-  workflow_dispatch:                # manual “Run workflow” button
-
-permissions:
-  contents: write                   # so we can commit the snapshot back
+    - cron: '15 */2 * * *'          # every 2 h at :15 UTC
+  workflow_dispatch:
 
 jobs:
   scan:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest          # still 24.04 but ok
 
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.11'    # or 3.12+
+          python-version: '3.11'
 
-      - name: Install Python deps + Playwright
+      - name: Install Python deps
         run: |
           pip install playwright==1.37 python-dotenv beautifulsoup4 lxml
-          playwright install --with-deps chromium   # grabs Chrome driver
+          # only the browsers, no system deps
+          playwright install chromium
 
       - name: Run the slot scanner
         run: python book_slots_full.py
-        env: ${{ vars }}            # inject every secret/variable you added
+        env: ${{ vars }}
 
-      # --- optional snapshot commit ------------------------------
+      # optional snapshot commit
       - name: Commit updated snapshot
-        if: success()               # only if script ran OK
+        if: success()
         run: |
-          git config user.email "slot-bot@users.noreply.github.com"
           git config user.name  "slot-bot"
+          git config user.email "slot-bot@users.noreply.github.com"
           git add slots_latest.txt
-          git commit -m "snapshot $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "no diff"
+          git commit -m "snapshot $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || exit 0
           git push
