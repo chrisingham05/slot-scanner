@@ -178,7 +178,7 @@ def send_email(new_lines: List[str]) -> None:
     if not new_lines or not all(SMTP.values()):
         return
     msg = EmailMessage()
-    msg["Subject"] = f"[Ravenair Local] {len(new_lines)} new booking slot(s)"
+    msg["Subject"] = f"[Ravenair Cloud] {len(new_lines)} new booking slot(s)"
     msg["From"]    = SMTP["SMTP_USER"]
     msg["To"]      = SMTP["SMTP_TO"]
     msg.set_content("\n".join(new_lines))
