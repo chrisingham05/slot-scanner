@@ -23,7 +23,7 @@ jobs:
           playwright install chromium
 
       - name: Run the slot scanner
-        run: python book_slots_full.py
+        run: mainV2.py
         env: ${{ vars }}
 
       # optional snapshot commit
