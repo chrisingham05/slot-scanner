@@ -24,7 +24,15 @@ jobs:
 
       - name: Run the slot scanner
         run: python mainV2.py
-        env: ${{ vars }}
+        env:
+          LOGIN_EMAIL:     ${{ secrets.LOGIN_EMAIL }}
+          LOGIN_PASSWORD:  ${{ secrets.LOGIN_PASSWORD }}
+          SMTP_HOST:       ${{ secrets.SMTP_HOST }}
+          SMTP_PORT:       ${{ secrets.SMTP_PORT }}
+          SMTP_USER:       ${{ secrets.SMTP_USER }}
+          SMTP_PASS:       ${{ secrets.SMTP_PASS }}
+          SMTP_TO:         ${{ secrets.SMTP_TO }}
+          DATE_WINDOW_DAYS: ${{ secrets.DATE_WINDOW_DAYS }}   # optional
 
       # optional snapshot commit
       - name: Commit updated snapshot
