@@ -35,7 +35,7 @@ BASE     = "https://ravenair.volanti.club"
 TYPE_VAL   = "5"           # Training (Dual)
 COURSE_VAL = "3"           # UK PPL – PA28
 
-DATE_WINDOW_DAYS = int(os.getenv("DATE_WINDOW_DAYS", "56"))      # inclusive
+DATE_WINDOW_DAYS = int(os.getenv("DATE_WINDOW_DAYS", "57"))      # inclusive
 SEARCH_WAIT_MS   = int(os.getenv("SEARCH_WAIT_MS",   "2500"))    # ms after clicking Search
 SEARCH_ATTEMPTS  = int(os.getenv("SEARCH_ATTEMPTS",  "2"))       # retries per date (was 3)
 
