@@ -2,7 +2,7 @@ name: Ravenair slot scan
 
 on:
   schedule:
-    - cron: '*/15 * * * *'           # every 15 minutes, UTC
+    - cron: '0 * * * *'          # every hour, on the hour, UTC
   workflow_dispatch:
 
 jobs:
