@@ -152,8 +152,7 @@ async def fetch_all_slots() -> List[str]:
 
         seen: Set[str] = set()
         for iso in iso_dates:
-            seen.update(await _lines_for_date(page, iso))
-            await asyncio.sleep(300)  # Delay 300 seconds between searches
+            seen.update(await _lines_for_date(page, iso)
 
 
         await browser.close()
@@ -209,6 +208,7 @@ async def main() -> None:
 
 if __name__ == "__main__":
     asyncio.run(main())
+
 
 
 
