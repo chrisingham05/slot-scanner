@@ -113,51 +113,75 @@ async def _select_date_safe(page: Page, iso_date: str) -> bool:
     except Exception:
         return False
 
+async def _lines_for_date(page: Page, iso_date: str, first_date: bool = False) -> Set[str]:
+    if first_date:
+        # Prepare the search and select the first date
+        await _prepare_search(page)
+        ok = await _select_date_safe(page, iso_date)
+        if not ok:
+            if VERBOSE:
+                print("⏭  skipping", iso_date, "(not in picker)")
+            return set()
+        await page.click('button:has-text("Search")')
 
-async def _lines_for_date(page: Page, iso_date: str) -> Set[str]:
-    await _prepare_search(page)
-    ok = await _select_date_safe(page, iso_date)
-    if not ok:
-        if VERBOSE:
-            print("⏭  skipping", iso_date, "(not in picker)")
-        return set()
+    else:
+        # Dynamically construct the selector for the "next date" button
+        next_date_selector = f"button[wire\\:click\\.prevent=\"changeDate('{iso_date}')\"]"
+        
+        # Click the "next date" button to navigate to the next date
+        await page.click(next_date_selector)
+        
 
-    await page.click('button:has-text("Search")')
+
 
     # Adaptive wait – reduced attempts, shorter default wait
     lines: Set[str] = set()
     for attempt in range(SEARCH_ATTEMPTS):
         await page.wait_for_timeout(SEARCH_WAIT_MS)
-        html  = await page.content()
-        new   = set(html_to_lines(html))
+        html = await page.content()
+        new = set(html_to_lines(html))
         if new or attempt == SEARCH_ATTEMPTS - 1:
             lines = new
             break
     if VERBOSE:
         print(f"✓ {iso_date}: {len(lines)} line(s)")
     return lines
+ 
+
+async def initialize_browser() -> Tuple[Browser, Page]:
+    """Initialize the browser and return the browser and page objects."""
+    playwright = await async_playwright().start()
+    browser = await playwright.chromium.launch(headless=True, args=["--no-sandbox"])
+    page = await browser.new_page()
+    return browser, page
 
 
-async def fetch_all_slots() -> List[str]:
+
+async def login(page: Page) -> None:
+    """Perform the login process."""
+    await _login(page)
+
+
+
+async def fetch_all_slots(page: Page) -> List[str]:
     today = date.today()
     iso_dates = [
         (today + timedelta(days=i)).strftime("%Y-%m-%d")
         for i in range(DATE_WINDOW_DAYS + 1)
     ]
 
-    async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True, args=["--no-sandbox"])
-        page    = await browser.new_page()
-        await _login(page)
+    seen: Set[str] = set()
 
-        seen: Set[str] = set()
-        for iso in iso_dates:
-            seen.update(await _lines_for_date(page, iso)
-
-
-        await browser.close()
+    for i, iso in enumerate(iso_dates):
+        first_date = (i == 0)  # True for the first date, False for subsequent dates
+        seen.update(await _lines_for_date(page, iso, first_date=first_date))
 
     return sorted(seen)
+
+
+async def close_browser(browser: Browser) -> None:
+    """Close the browser."""
+    await browser.close()
 
 # ───────────────────────────
 #  Snapshot + e‑mail helpers
@@ -193,21 +217,33 @@ def send_email(new_lines: List[str]) -> None:
 # ───────────────────────────
 #  Main
 # ───────────────────────────
+
 async def main() -> None:
-    current = await fetch_all_slots()
-    prev    = load_previous()
-    new     = [ln for ln in current if ln not in prev]
+    browser, page = await initialize_browser()
+    try:
+        await login(page)
+        current = await fetch_all_slots(page)
+        prev = load_previous()
+        new = [ln for ln in current if ln not in prev]
 
-    send_email(new)
-    save_current(current)
+        # Send email for new slots
+        send_email(new)
 
-    print(f"✓ {len(current)} total slots   •   {len(new)} new since last run")
-    for ln in new:
-        print("   +", ln)
+        # Save the current slots for future runs
+        save_current(current)
+
+        # Print summary
+        print(f"✓ {len(current)} total slots   •   {len(new)} new since last run")
+        for ln in new:
+            print("   +", ln)
+    finally:
+        await close_browser(browser)
 
 
 if __name__ == "__main__":
     asyncio.run(main())
+
+
 
 
 
