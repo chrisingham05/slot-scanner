@@ -38,7 +38,6 @@
 2026-01-13 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
 2026-01-13 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Ryan Milburn
 2026-01-14 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton
-2026-01-14 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton
 2026-01-14 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Ryan Milburn
 2026-01-15 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
 2026-01-15 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Ryan Milburn
@@ -53,9 +52,7 @@
 2026-01-20 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Ryan Milburn
 2026-01-21 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton
 2026-01-21 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton
-2026-01-21 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton
 2026-01-21 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Ryan Milburn
-2026-01-22 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton
 2026-01-22 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton
 2026-01-22 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
 2026-01-23 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
@@ -76,3 +73,13 @@
 2026-01-28 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton
 2026-01-28 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28) with Ryan Milburn
 2026-01-28 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton
+2026-01-29 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton
+2026-01-29 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
+2026-01-29 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton
+2026-01-29 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
+2026-01-29 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton
+2026-01-29 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
+2026-01-29 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton
+2026-01-29 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
+2026-01-29 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton
+2026-01-29 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
