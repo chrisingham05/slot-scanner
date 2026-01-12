@@ -100,15 +100,15 @@ async def _login(page: Page) -> None:
 
 async def _prepare_search(page: Page) -> None:
     await page.goto(f"{BASE}/bookings/search")
-    await page.select_option('select#data\\.type',   TYPE_VAL)
-    await page.select_option('select#data\\.course', COURSE_VAL)
+    await page.select_option('select#form\\.type',   TYPE_VAL)
+    await page.select_option('select#form\\.course', COURSE_VAL)
 
 
 async def _select_date_safe(page: Page, iso_date: str) -> bool:
-    opt_sel = f'select#data\\.date option[value="{iso_date}"]'
+    opt_sel = f'select#form\\.date option[value="{iso_date}"]'
     try:
         await page.wait_for_selector(opt_sel, state="attached", timeout=10_000)
-        await page.select_option('select#data\\.date', iso_date)
+        await page.select_option('select#form\\.date', iso_date)
         return True
     except Exception:
         return False
@@ -242,6 +242,7 @@ async def main() -> None:
 
 if __name__ == "__main__":
     asyncio.run(main())
+
 
 
 
