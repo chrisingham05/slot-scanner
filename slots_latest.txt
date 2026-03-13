@@ -14,8 +14,6 @@
 2026-04-14 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Chris Heywood
 2026-04-14 14:30-16:30 - UK Private Pilot Licence - PA28 (Ravenair FNPTs) with Chris Heywood
 2026-04-14 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Chris Heywood
-2026-04-18 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
-2026-04-18 12:30-14:30 - UK Private Pilot Licence - PA28 (Ravenair FNPTs) with Isaiah Göhrs
 2026-04-18 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
 2026-04-18 14:30-16:30 - UK Private Pilot Licence - PA28 (Ravenair FNPTs) with Isaiah Göhrs
 2026-04-18 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
@@ -41,20 +39,14 @@
 2026-04-24 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
 2026-04-24 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
 2026-04-24 16:30-18:30 - UK Private Pilot Licence - PA28 (Ravenair FNPTs) with Isaiah Göhrs
-2026-04-25 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
-2026-04-25 12:30-14:30 - UK Private Pilot Licence - PA28 (Ravenair FNPTs) with Isaiah Göhrs
 2026-04-25 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
 2026-04-25 14:30-16:30 - UK Private Pilot Licence - PA28 (Ravenair FNPTs) with Isaiah Göhrs
 2026-04-25 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
 2026-04-25 16:30-18:30 - UK Private Pilot Licence - PA28 (Ravenair FNPTs) with Isaiah Göhrs
-2026-04-26 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
-2026-04-26 12:30-14:30 - UK Private Pilot Licence - PA28 (Ravenair FNPTs) with Isaiah Göhrs
 2026-04-26 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
 2026-04-26 14:30-16:30 - UK Private Pilot Licence - PA28 (Ravenair FNPTs) with Isaiah Göhrs
 2026-04-26 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
 2026-04-26 16:30-18:30 - UK Private Pilot Licence - PA28 (Ravenair FNPTs) with Isaiah Göhrs
-2026-04-28 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
-2026-04-28 14:30-16:30 - UK Private Pilot Licence - PA28 (Ravenair FNPTs) with Isaiah Göhrs
 2026-04-28 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
 2026-04-28 16:30-18:30 - UK Private Pilot Licence - PA28 (Ravenair FNPTs) with Isaiah Göhrs
 2026-04-29 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton
@@ -65,8 +57,6 @@
 2026-05-01 08:30-10:30 - UK Private Pilot Licence - PA28 (Ravenair FNPTs) with Ben Newton
 2026-05-01 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton
 2026-05-01 14:30-16:30 - UK Private Pilot Licence - PA28 (Ravenair FNPTs) with Ben Newton
-2026-05-05 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
-2026-05-05 08:30-10:30 - UK Private Pilot Licence - PA28 (Ravenair FNPTs) with Isaiah Göhrs
 2026-05-05 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
 2026-05-05 14:30-16:30 - UK Private Pilot Licence - PA28 (Ravenair FNPTs) with Isaiah Göhrs
 2026-05-05 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
