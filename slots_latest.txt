@@ -1,4 +1,4 @@
-2026-07-17 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
+2026-07-17 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-07-17 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-07-17 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-07-17 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28)
@@ -332,6 +332,7 @@
 2026-09-10 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-11 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-11 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
+2026-09-12 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-12 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-12 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-12 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
