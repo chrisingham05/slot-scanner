@@ -29,7 +29,7 @@
 2026-07-28 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-07-28 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-07-29 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Ryan Milburn
-2026-07-29 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28) with Ryan Milburn
+2026-07-29 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-07-29 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-07-29 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Ryan Milburn
 2026-07-29 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
@@ -174,7 +174,7 @@
 2026-08-21 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-08-22 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-08-22 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28)
-2026-08-22 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs
+2026-08-22 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-08-22 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-08-22 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-08-22 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
@@ -328,6 +328,10 @@
 2026-09-16 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-16 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-16 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
+2026-09-17 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton
+2026-09-17 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28)
+2026-09-17 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton
+2026-09-17 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Jim McBrinn
 2026-09-17 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-17 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-18 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
