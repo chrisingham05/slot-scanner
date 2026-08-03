@@ -22,7 +22,7 @@
 2026-08-08 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-08-08 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-08-08 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
-2026-08-09 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28)
+2026-08-09 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton
 2026-08-09 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-08-09 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-08-09 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28)
@@ -35,7 +35,7 @@
 2026-08-10 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-08-10 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-08-11 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Richbell
-2026-08-11 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Richbell
+2026-08-11 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-08-11 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-08-11 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-08-11 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
@@ -88,6 +88,18 @@
 2026-08-19 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-08-19 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-08-19 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
+2026-08-20 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28)
+2026-08-20 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28)
+2026-08-20 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28)
+2026-08-20 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28)
+2026-08-20 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
+2026-08-20 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
+2026-08-21 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28)
+2026-08-21 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28)
+2026-08-21 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28)
+2026-08-21 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28)
+2026-08-21 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
+2026-08-21 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-08-22 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-08-22 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-08-22 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28)
@@ -188,7 +200,7 @@
 2026-09-07 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-07 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Richbell
 2026-09-07 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Richbell
-2026-09-07 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Richbell
+2026-09-07 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-07 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Richbell
 2026-09-07 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-08 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Richbell
