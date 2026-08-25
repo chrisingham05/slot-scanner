@@ -29,13 +29,14 @@
 2026-08-31 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-08-31 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-08-31 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
-2026-09-01 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28)
+2026-09-01 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Chris Heywood
+2026-09-01 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton
 2026-09-01 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Richbell
 2026-09-01 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28) with Chris Heywood
 2026-09-01 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28) with Chris Heywood
+2026-09-01 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton
 2026-09-01 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-01 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Chris Heywood
-2026-09-01 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton
 2026-09-01 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-02 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-02 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28)
@@ -47,10 +48,10 @@
 2026-09-03 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-03 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-03 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28)
-2026-09-03 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton
+2026-09-03 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-03 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-04 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28)
-2026-09-04 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton
+2026-09-04 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-04 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-04 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-04 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
@@ -367,7 +368,7 @@
 2026-10-17 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-10-17 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Charlie Stuckey
 2026-10-17 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Ryan Milburn
-2026-10-17 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Ryan Milburn
+2026-10-17 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-10-17 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-10-18 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-10-18 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28)
@@ -381,7 +382,6 @@
 2026-10-19 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Charlie Stuckey
 2026-10-19 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Ryan Milburn
 2026-10-19 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton
-2026-10-19 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Ryan Milburn
 2026-10-19 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-10-20 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton
 2026-10-20 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton
