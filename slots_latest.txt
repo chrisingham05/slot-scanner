@@ -1,3 +1,4 @@
+2026-09-01 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Richbell
 2026-09-01 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton (FSC)
 2026-09-01 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28) with Chris Heywood
 2026-09-01 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28)
@@ -55,7 +56,7 @@
 2026-09-10 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-10 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-10 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28)
-2026-09-10 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Charlie Stuckey (FSC)
+2026-09-10 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-10 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-10 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-11 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28)
@@ -64,7 +65,7 @@
 2026-09-11 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton (FSC)
 2026-09-11 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton (FSC)
 2026-09-11 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
-2026-09-12 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton (FSC)
+2026-09-12 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-12 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton (FSC)
 2026-09-12 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-09-12 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28)
@@ -337,7 +338,6 @@
 2026-10-21 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton (FSC)
 2026-10-21 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton (FSC)
 2026-10-21 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton (FSC)
-2026-10-21 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton (FSC)
 2026-10-21 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Charlie Stuckey (FSC)
 2026-10-21 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton (FSC)
 2026-10-21 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton (FSC)
