@@ -26,9 +26,9 @@
 2026-10-01 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-10-01 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-10-01 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton (FSC)
-2026-10-01 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Isaiah Göhrs (FSC)
+2026-10-01 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-10-01 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
-2026-10-02 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton (FSC)
+2026-10-02 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-10-02 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-10-02 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-10-02 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28)
@@ -39,7 +39,7 @@
 2026-10-03 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-10-03 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-10-03 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
-2026-10-03 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28) with Ryan Milburn
+2026-10-03 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-10-04 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-10-04 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-10-04 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28)
@@ -96,9 +96,9 @@
 2026-10-12 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-10-13 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton (FSC)
 2026-10-13 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28)
-2026-10-13 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28) with Nathan Martin
+2026-10-13 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-10-13 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Nathan Martin
-2026-10-13 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28) with Chris Heywood
+2026-10-13 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-10-13 18:30-20:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-10-14 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton (FSC)
 2026-10-14 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28)
@@ -178,7 +178,6 @@
 2026-10-26 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-10-26 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-10-27 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Charlie Stuckey
-2026-10-27 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Chris Heywood
 2026-10-27 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton (FSC)
 2026-10-27 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28) with Chris Heywood
 2026-10-27 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton (FSC)
@@ -197,7 +196,6 @@
 2026-10-29 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton (FSC)
 2026-10-29 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-10-30 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28)
-2026-10-30 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton (FSC)
 2026-10-30 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton (FSC)
 2026-10-30 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28) with Hannah Moulton (FSC)
 2026-10-30 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton (FSC)
@@ -297,7 +295,6 @@
 2026-11-18 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-11-18 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-11-18 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Ben Newton (FSC)
-2026-11-18 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Charlie Stuckey
 2026-11-18 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-11-19 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-11-19 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28)
@@ -306,6 +303,6 @@
 2026-11-19 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-11-20 08:30-10:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-11-20 10:30-12:30 - UK Private Pilot Licence - PA28 (PA28)
-2026-11-20 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28) with Charlie Stuckey
+2026-11-20 12:30-14:30 - UK Private Pilot Licence - PA28 (PA28)
 2026-11-20 14:30-16:30 - UK Private Pilot Licence - PA28 (PA28) with Charlie Stuckey
 2026-11-20 16:30-18:30 - UK Private Pilot Licence - PA28 (PA28)
